@@ -1,4 +1,4 @@
-A passionate coder and learner from Bihar
+# A passionate coder and learner from Bihar
 # 💫 About Me:
 I'm Currently Working on Alignerr<br>I'm Currently learning Java<br>
 
