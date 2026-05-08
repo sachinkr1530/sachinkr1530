@@ -1,6 +1,6 @@
 # A passionate coder and learner from Bihar
 # 💫 About Me:
-I'm Currently Working on Alignerr<br>I'm Currently learning Java<br>
+I'm Currently Working on Alignerr && Adomita Pvt.Ltd.<br>I'm Currently learning AIML<br>
 
 
 ## 🌐 Socials:
